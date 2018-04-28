@@ -67,7 +67,7 @@
                 <div class="section clearfix"></div>
                 <div class="offset-md-6 col-md-6 img-slice-wrap pt-5 pb-5 over-hide">
                     <a class="parallax-elements js-tilt" href="{{url('project/xylawater')}}" data-tilt-perspective="800" data-tilt-speed="700" data-tilt-max="10">
-                        <div class="scroll-img" style="background-image: url(img/portfolio/6.jpg);"></div>
+                        <div class="scroll-img" style="background-image: url(img/xylawater.png);"></div>
                         <div class="project-name" data-scroll-reveal="enter right move 80px over 0.8s after 0.2s">Xyla Water<span></span></div>
                         <div class="project-type z-bigger" data-scroll-reveal="enter right move 80px over 0.8s after 0.6s"><span>Web Design</span></div>
                     </a>

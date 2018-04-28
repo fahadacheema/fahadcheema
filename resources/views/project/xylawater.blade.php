@@ -18,6 +18,11 @@
     <div class="section padding-bottom">
         <div class="container">
             <div class="row">
+                <div class="offset-md-3 padding-top col-md-6">
+                    <div class="img-wrap">
+                        <img src="{{asset('img/xylawater.png')}}" alt="">
+                    </div>
+                </div>
                 <div class="offset-md-2 col-md-8 padding-top-bottom" data-scroll-reveal="enter bottom move 30px over 0.5s after 0.2s">
                     <div class="project-text-wrapper">
                         <h4>Project Overview</h4>
