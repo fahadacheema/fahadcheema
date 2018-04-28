@@ -18,10 +18,16 @@
     <div class="section padding-bottom">
         <div class="container">
             <div class="row">
-                <div class="offset-md-2 col-md-8 padding-top-bottom" data-scroll-reveal="enter bottom move 30px over 0.5s after 0.2s">
+                <div class="offset-md-3 padding-top-bottom col-md-6">
+                    <div class="img-wrap">
+                        <img src="{{asset('img/manzil.png')}}" alt="">
+                    </div>
+                </div>
+                <div class="offset-md-2 col-md-8 padding-bottom" data-scroll-reveal="enter bottom move 30px over 0.5s after 0.2s">
                     <div class="project-text-wrapper">
                         <h4>Project Overview</h4>
                         <p>Almost every electrical device and system in your home can be automated, managed via a smart device (Mobile Phones) or DLP panel, centralized or autonomous control has never been so easy. This provides you with improved convenience, comfort, and energy efficiency. Think of MANZIL home automation system as a unseen housekeeper, who’s always there to give you a helping hand in a secure and reliable way.</p>
+                        <p>The idea behind this project was to take a different approach to web design so for that instead of following the norms of website I made this entire website in a single Revolution Slider giving user as much interactivity as needed to make their experience better. It was something different than what I had already done before and turned out to be quite fruitful.</p>
                     </div>
                     <div class="contact-info mt-5 text-center">
                         <a href="http://manzil.com.pk/" target="_blank" class="js-tilt" data-tilt-perspective="300" data-tilt-speed="700" data-tilt-max="24"><span>See It Live</span></a>

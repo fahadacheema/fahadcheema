@@ -18,7 +18,12 @@
     <div class="section padding-bottom">
         <div class="container">
             <div class="row">
-                <div class="offset-md-2 col-md-8 padding-top-bottom" data-scroll-reveal="enter bottom move 30px over 0.5s after 0.2s">
+                <div class="offset-md-3 padding-top-small padding-bottom col-md-6">
+                    <div class="img-wrap">
+                        <img src="{{asset('img/index.png')}}" alt="">
+                    </div>
+                </div>
+                <div class="offset-md-2 col-md-8 padding-bottom" data-scroll-reveal="enter bottom move 30px over 0.5s after 0.2s">
                     <div class="project-text-wrapper">
                         <h4>Project Overview</h4>
                         <p>INDEX: The Design and Innovation Society at LUMS is here to pave the way for savoir-faire user experience through design and innovation. The agenda is to make the community more prone to thinking from a design perspective and helping them realise the proper approach to good design. The society plans to organize fun-filled events designed to help everyone, be it a scientist, an economist, an artist or even a sociologist to bring out their inner designer. You don’t have to be a called a designer to recognize and appreciate good aspects of design. It’s all about problem solving!</p>

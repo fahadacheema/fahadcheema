@@ -84,6 +84,43 @@
 
     @yield('content')
 
+    <div class="section padding-top-bottom-big background-grey">
+        <div class="container-fluid mx-0" data-enllax-ratio=".15" data-enllax-type="foreground" data-enllax-direction="horizontal">
+            <div class="row">
+                <div class="col-md-2 mb-4 mb-md-0">
+                    <div class="logo-img">
+                        <img src="{{asset('img/laravel.png')}}" alt="">
+                    </div>
+                </div>
+                <div class="col-md-2 mt-2 mb-4 mb-md-0">
+                    <div class="logo-img">
+                        <img src="{{asset('img/wordpress.png')}}" alt="">
+                    </div>
+                </div>
+                <div class="col-md-2 mb-4 mb-md-0">
+                    <div class="logo-img">
+                        <img src="{{asset('img/jquery.png')}}" alt="">
+                    </div>
+                </div>
+                <div class="col-md-2 mb-4 mb-md-0">
+                    <div class="logo-img">
+                        <img src="{{asset('img/htmlcss.png')}}" alt="">
+                    </div>
+                </div>
+                <div class="col-md-2 mb-4 mb-md-0">
+                    <div class="logo-img">
+                        <img src="{{asset('img/php.png')}}" alt="">
+                    </div>
+                </div>
+                <div class="col-md-2">
+                    <div class="logo-img">
+                        <img src="{{asset('img/mysql.png')}}" alt="">
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
     <div class="section padding-top-big padding-bottom">
         <div class="container">
             <div class="row">

@@ -21,7 +21,7 @@
                 <div class="offset-md-2 col-md-8 padding-top-bottom" data-scroll-reveal="enter bottom move 30px over 0.5s after 0.2s">
                     <div class="project-text-wrapper">
                         <h4>Project Overview</h4>
-                        <p></p>
+                        <p>Xyla Water is a social impact startup that focuses on the UN SDG number 6: Clean Water and Sanitation. Our Startup aims at defying the affordability challenge, by providing clean drinking water to the underprivileged masses, using a cheap, biodegradable xylem water filter. Founded in June 2017, Xyla Water is commercializing filters based on research from scientists at the Massachusetts Institute of Technology. The filter can clean enough water for a family of seven, for under $10 per year. Let that, sink in…</p>
                     </div>
                     <div class="contact-info mt-5 text-center">
                         <a href="http://xylawater.com/" target="_blank" class="js-tilt" data-tilt-perspective="300" data-tilt-speed="700" data-tilt-max="24"><span>See It Live</span></a>

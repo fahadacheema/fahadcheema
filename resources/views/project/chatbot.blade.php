@@ -18,10 +18,15 @@
     <div class="section padding-bottom">
         <div class="container">
             <div class="row">
-                <div class="offset-md-2 col-md-8 padding-top-bottom" data-scroll-reveal="enter bottom move 30px over 0.5s after 0.2s">
+                <div class="offset-md-3 padding-top-bottom col-md-6">
+                    <div class="img-wrap">
+                        <img src="{{asset('img/chatbot.png')}}" alt="">
+                    </div>
+                </div>
+                <div class="offset-md-2 col-md-8 padding-bottom" data-scroll-reveal="enter bottom move 30px over 0.5s after 0.2s">
                     <div class="project-text-wrapper">
                         <h4>Project Overview</h4>
-                        <p></p>
+                        <p>Chatbot is a product of Acrologix Pvt Ltd where they build order based chatbots for different companies to make their customer service better. For this the website had to be something that could not only give user an idea of the product but also teach them as to how a chatbot generally works so for that I had to use different illustrations as to how the architecture of a chatbot is designed. To make the experience of the site even better I embedded an already built chatbot on the website for the users to interact with making it a more personal experience for the user.</p>
                     </div>
                     <div class="contact-info mt-5 text-center">
                         <a href="http://chatbot.pk/" target="_blank" class="js-tilt" data-tilt-perspective="300" data-tilt-speed="700" data-tilt-max="24"><span>See It Live</span></a>
