@@ -8,7 +8,7 @@
                 <div class="row">
                     <div class="col-md-12 parallax-fade-top">
                         <p>Fahad Cheema</p>
-                        <h2 style="color: #fff;">UI/UX Designer & Web Developer</h2>
+                        <h2 style="color: #fff;">UI/UX Front End Web Developer</h2>
                     </div>
                 </div>
             </div>
