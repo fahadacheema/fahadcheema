@@ -30,7 +30,7 @@
                         <p>The objective is to design holistic user experiences, teach the latest UX trends and technologies and inspire UXers to create seamless experiences. It will help bridge the gap between industry and academic researchers. The conference will include participants from all fields including designers, UX researchers, usability specialists, business analysts, product managers, and market researchers etc.The conference isn’t just about the presentations, but about meeting up, networking and spending time talking to each other.</p>
                     </div>
                     <div class="contact-info mt-5 text-center">
-                        <a href="https://www.uxpakistan.com/2017/" target="_blank" class="js-tilt" data-tilt-perspective="300" data-tilt-speed="700" data-tilt-max="24"><span>See It Live</span></a>
+                        <a href="https://www.uxpakistan.com" target="_blank" class="js-tilt" data-tilt-perspective="300" data-tilt-speed="700" data-tilt-max="24"><span>See It Live</span></a>
                     </div>
                 </div>
                 <div class="col-md-12">
